@@ -46,7 +46,7 @@ context-learning not only in chat, but also in output
     ],
     "concepts_definitions": [
       "A decimal number is a fraction where the denominator is a power of ten",
-      "The place value system determines the value of each digit based on its position"“位值系统根据每个数字的位置确定其值”
+      "The place value system determines the value of each digit based on its position"
     ],
     "careful_points": [
       "Ensure that both numbers are compared with the same number of decimal places",
